@@ -9,7 +9,7 @@ TimeX is a RESTful API for managing tasks and projects with user authentication.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/timex.git
+   git clone https://github.com/Tushar3330/Timex
    cd timex
    ```
 
